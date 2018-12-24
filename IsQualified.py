@@ -3,7 +3,6 @@
 
 # # 자격판별요건 프로세스
 
-# In[ ]:
 
 
 # 1. 반려 동물 생활비
@@ -16,7 +15,7 @@ print("2. 3인이상의 가족이 실평수 10평이하에 거주중인가요?")
 print("1) O      2) X")
 a2 = input()
 a2_1 = -1
-if(a2 == 2):
+if(a2 == "2"):
     print("2-1. 주거 형태가 어떻게 되나요?")
     print("1) 단독주택      2) 다가구주택(오피스텔/아파트 등)      3) 기타")
     a2_1 = input()
@@ -72,39 +71,38 @@ print("""
 a11 = input()
 
 
-# In[ ]:
 
 
-if(a2 == or a3 == 1 or a4 == 1 or a5 != 4 or a6 == 2 or a7 == 1 or a8 == 1 a9 == 2 a10 == 1):
+if(a2 == '1' or a3 == '1' or a4 == '1' or a5 != '4' or a6 == '2' or a7 == '1' or a8 == '1' or a9 == '2' or a10 == '1'):
     print("당신은 강아지를 키울 자격이 없습니다ㅜㅜ")
 
 # 1번 문항
-if(a1 == 1):
+if(a1 == '1'):
     print("소형견")
-elif(a1 == 2):
+elif(a1 == '2'):
     print("소형견")
-elif(a1 == 3):
+elif(a1 == '3'):
     print("중형견")
-elif(a1 == 4):
+elif(a1 == '4'):
     print("대형견")
     
 # 2-1번 문항
-if(a2_1 == 1):
+if(a2_1 == '1'):
     print("소, 중, 대형견")
-elif(a2_1 == 2):
+elif(a2_1 == '2'):
     print("소형견")
-elif(a2_1 == 3):
+elif(a2_1 == '3'):
     print("소, 중형견")
 
 # 11번 문항
-if(a11 == 1):
+if(a11 == '1'):
     print("Shedding 0~20% 견종 추천")
-elif(a11 == 2):
+elif(a11 == '2'):
     print("Shedding 20~40% 견종 추천")
-elif(a11 == 3):
+elif(a11 == '3'):
     print("Shedding 40~60% 견종 추천")
-elif(a11 == 4):
+elif(a11 == '4'):
     print("Shedding 60~80% 견종 추천")
-elif(a11 == 4):
+elif(a11 == '5'):
     print("Shedding 80~100% 견종 추천")
 
