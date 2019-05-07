@@ -36,7 +36,7 @@
 ![process](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbpbDGR%2Fbtqu2Iji93x%2FKWpqhj8K0IxKqL9EJEwdi0%2Fimg.png)
 
 ### 2단계 - 선호도에 근거한 필터링 프로세스
-- 2-1. 견종 성격 선호도
+**- 2-1. 견종 성격 선호도**<br>
 위의 적합도 검사를 통과한 사람들에 한해 선호도 검사를 시행한다. 자격요건이 갖춰진 예비 입양자를 대상으로 진행되는 이 선호도 검사는 다음과 같은 전제에서 시작한다.
 
 *There was, however, a significant tendency for partners to appear more similar in personality traits the longer they had been married.*
@@ -44,7 +44,7 @@
 앤써니 C. 리틀 등 3명의 연구에 따르면 **사람은 본인과 유사한 성격을 가진 사람과 더 오래 행복하게 살 가능성이 높았다.** 결론적으로 본인을 잘 아는 것은 타인이 아닌 본인이라는 점에서, **본인이 직접 자신의 성격과 가까운 반려견을 직접 선택하고 이에 기반하여 추천**한다면 입양 후 만족도는 높아질 것이다.
 
 
-- 2-2. 견종 특징 선호도
+**- 2-2. 견종 특징 선호도**<br>
 견종 특징 선호도 조사에서는 예비 입양자들에게 **외형, 털 손질 빈도, 털빠짐 정도, 활동량, 총명함, 훈련 시 반려견의 태도**를 묻는다. 이 문항들은 AKC 홈페이지에 있는 자료에 근거하여 척도화한다. 외형은 소형, 중형, 대형으로 구분하고 나머지 문항들은 5점 척도(예비)로 다음과 같이 구성한다.
 
 1. 당신은 어느 크기의 견종을 선호합니까?
