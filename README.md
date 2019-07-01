@@ -1,8 +1,7 @@
 # 반려견 매칭 서비스 :: BABE 소개<br>BABE (Best Adoption, Best for Each other)
-###: 견종 별 성격 및 특성을 고려한 맞춤형 반려동물 매칭 서비스
+### : 견종 별 성격 및 특성을 고려한 맞춤형 반려동물 매칭 서비스
 
-
-이 repo는 2018년 2학기 한국외대 경영학과 데이터마이닝 수업에서 진행된 팀 프로젝트 코드 저장소입니다.<br>
+이 repo는 2018년 2학기 한국외대 경영학과 데이터마이닝 수업에서 진행된 팀 프로젝트 코드 저장소입니다.<br><br><br>
 ![intro image](https://github.com/starbucksdolcelatte/data-mining-team-proj/blob/master/res/pic/intro.JPG?raw=true)
 
 
